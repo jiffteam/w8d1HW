@@ -1,0 +1,28 @@
+{
+  "name": "week8day1hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "files.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiffteam/w8d1HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiffteam/w8d1HW/issues"
+  },
+  "homepage": "https://github.com/jiffteam/w8d1HW#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "save": "^2.5.0"
+  }
+}
